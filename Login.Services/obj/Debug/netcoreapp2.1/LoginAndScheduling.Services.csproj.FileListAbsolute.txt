@@ -1,0 +1,45 @@
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.csproj.CoreCompileInputs.cache
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.RazorAssemblyInfo.cache
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.RazorAssemblyInfo.cs
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.AssemblyInfoInputs.cache
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.AssemblyInfo.cs
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.deps.json
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.runtimeconfig.json
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.runtimeconfig.dev.json
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.dll
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.pdb
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.csprojAssemblyReference.cache
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.dll
+C:\Users\Danang Kusuma\Music\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.pdb
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.deps.json
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.runtimeconfig.json
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.runtimeconfig.dev.json
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.dll
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.pdb
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.csproj.CoreCompileInputs.cache
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.RazorAssemblyInfo.cache
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.RazorAssemblyInfo.cs
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.AssemblyInfoInputs.cache
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.AssemblyInfo.cs
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.dll
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.pdb
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.csprojAssemblyReference.cache
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.deps.json
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.runtimeconfig.json
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.runtimeconfig.dev.json
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.dll
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\bin\Debug\netcoreapp2.1\LoginAndScheduling.Services.pdb
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.csprojAssemblyReference.cache
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.csproj.CoreCompileInputs.cache
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.RazorAssemblyInfo.cache
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.RazorAssemblyInfo.cs
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.AssemblyInfoInputs.cache
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.AssemblyInfo.cs
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.dll
+C:\Users\Danang\source\repos\Services\Login\LoginAndScheduling.Services\obj\Debug\netcoreapp2.1\LoginAndScheduling.Services.pdb

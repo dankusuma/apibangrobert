@@ -1,0 +1,11 @@
+C:\Users\Danang Kusuma\Desktop\Deploy\KRS_Win_Container\LoginAndScheduling.Services\bin\Debug\netcoreapp2.0\LoginAndScheduling.Services.deps.json
+C:\Users\Danang Kusuma\Desktop\Deploy\KRS_Win_Container\LoginAndScheduling.Services\bin\Debug\netcoreapp2.0\LoginAndScheduling.Services.runtimeconfig.json
+C:\Users\Danang Kusuma\Desktop\Deploy\KRS_Win_Container\LoginAndScheduling.Services\bin\Debug\netcoreapp2.0\LoginAndScheduling.Services.runtimeconfig.dev.json
+C:\Users\Danang Kusuma\Desktop\Deploy\KRS_Win_Container\LoginAndScheduling.Services\bin\Debug\netcoreapp2.0\LoginAndScheduling.Services.dll
+C:\Users\Danang Kusuma\Desktop\Deploy\KRS_Win_Container\LoginAndScheduling.Services\bin\Debug\netcoreapp2.0\LoginAndScheduling.Services.pdb
+C:\Users\Danang Kusuma\Desktop\Deploy\KRS_Win_Container\LoginAndScheduling.Services\obj\Debug\netcoreapp2.0\LoginAndScheduling.Services.csprojResolveAssemblyReference.cache
+C:\Users\Danang Kusuma\Desktop\Deploy\KRS_Win_Container\LoginAndScheduling.Services\obj\Debug\netcoreapp2.0\LoginAndScheduling.Services.csproj.CoreCompileInputs.cache
+C:\Users\Danang Kusuma\Desktop\Deploy\KRS_Win_Container\LoginAndScheduling.Services\obj\Debug\netcoreapp2.0\LoginAndScheduling.Services.AssemblyInfoInputs.cache
+C:\Users\Danang Kusuma\Desktop\Deploy\KRS_Win_Container\LoginAndScheduling.Services\obj\Debug\netcoreapp2.0\LoginAndScheduling.Services.AssemblyInfo.cs
+C:\Users\Danang Kusuma\Desktop\Deploy\KRS_Win_Container\LoginAndScheduling.Services\obj\Debug\netcoreapp2.0\LoginAndScheduling.Services.dll
+C:\Users\Danang Kusuma\Desktop\Deploy\KRS_Win_Container\LoginAndScheduling.Services\obj\Debug\netcoreapp2.0\LoginAndScheduling.Services.pdb

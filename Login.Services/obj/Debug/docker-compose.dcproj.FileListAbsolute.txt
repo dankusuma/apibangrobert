@@ -1,0 +1,1 @@
+C:\Users\Danang\Documents\Work\KRS\KRS\services\LoginAndScheduling.Services\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
